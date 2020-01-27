@@ -1,0 +1,96 @@
+#dog ul li {
+    list-style-type: none;
+    display: inline;
+    
+}
+#about {
+    color: black
+
+}
+#store {
+    color: black;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+
+#images {
+    color: black;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#sign {
+    background: #4887ef; 
+    color: white;
+    padding: 7px 15px;
+    border-radius: 3px; 
+    font-weight: bold;
+    margin-left: 5px;
+}
+#gmail {
+    color: black;
+    margin-left: 1000px;
+}
+
+.car {
+    margin-left: 500px;
+    
+}
+.box {
+    font-size: 20px;
+    margin-left: 425px;
+    width: 450px;
+    height: 5px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    
+}
+#buttons {
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 550px;
+    
+    
+}
+#search {
+    color: grey;
+    border-color: transparent;
+    padding: 10px;
+}
+#lucky {
+    color: grey;
+    border-color: transparent;
+    padding: 10px;
+}
+
+footer ul li {
+    
+    margin-top: 230px;
+    list-style-type: none;
+    display: inline-block;
+    
+}
+#advertise {
+    color:  grey;
+}
+#business {
+    color: grey;
+    margin-left: 10px;
+}
+#how {
+    color: grey;
+    margin-left: 10px;
+}
+#privacy {
+    color: grey;
+    margin-right: 0px;
+    margin-left: 800px;
+}
+#terms {
+    color: grey;
+    margin-left: 10px;
+}
+#settings {
+    color: grey;
+    margin-left: 10px;
+}
